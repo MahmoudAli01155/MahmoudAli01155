@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hello! 👋
+I'm [Your Name], a passionate Front-End Developer. I love building web applications and exploring new technologies.
 
 
 **MahmoudAli01155/MahmoudAli01155** is a ✨ _special_ ✨.
@@ -13,3 +14,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Skills:
+- HTML, CSS, JavaScript
+- React, Angular
+- Node.js, Express
+
+## Contact:
+- [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- [Portfolio](https://your-portfolio.com)
+
