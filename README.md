@@ -1,5 +1,5 @@
 # Hello! 👋
-I'm [Your Name], a passionate Front-End Developer. I love building web applications and exploring new technologies.
+I'm Mahmoud Ali, a passionate Front-End Developer. I love building web applications and exploring new technologies.
 
 
 **MahmoudAli01155/MahmoudAli01155** is a ✨ _special_ ✨.
