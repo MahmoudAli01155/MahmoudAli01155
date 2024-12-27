@@ -1,5 +1,5 @@
 # Hello! 👋
-I'm Mahmoud Ali, a passionate Front-End Developer. I love building web applications and exploring new technologies.
+I'm Mahmoud Ali, a passionate Django Developer, .NET Developer and Data Analysis. I love building web applications and exploring new technologies.
 
 
 **MahmoudAli01155/MahmoudAli01155** is a ✨ _special_ ✨.
@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## Skills:
-- HTML, CSS, JavaScript
-- React, Angular
-- Node.js, Express
+- HTML, CSS, JavaScript, Python, C#
+- React
+- Djando, .NET, PowerBI
 
 ## Contact:
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Portfolio](https://your-portfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/mahmoud-ali-ahmed/)
+- [Portfolio](https://github.com/MahmoudAli01155)
 
