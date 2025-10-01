@@ -1,3 +1,125 @@
+# 👋 Hi, I'm Mahmoud Ali
+
+🚀 **Software Engineer | Full Stack Developer | Data Analyst**  
+Passionate about building scalable web applications, solving problems with clean code, and continuously learning new technologies.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages & Frameworks**
+<div align="center">
+  
+**Python**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" />
+
+**C# & .NET**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" />
+
+**Java**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" />
+
+**JavaScript**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+
+**Databases**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+
+</div>
+
+### **Tools & Platforms**
+<div align="center">
+  
+**Version Control**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" />
+
+**DevOps & Containers**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+
+**Operating Systems**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" />
+
+**Data Analysis**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" />
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" width="50" />
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+### 🛒 **E-commerce Web App**  
+*ASP.NET Core, Clean Architecture*  
+- Full-stack e-commerce solution with authentication, product management, and payments
+- Applied **Clean Architecture** principles with repository & service layers
+
+### 💰 **Crowdfunding Platform**  
+*Django + PostgreSQL*  
+- Built a web app for funding campaigns with user authentication & secure payments
+- Implemented RESTful APIs for mobile integration
+
+### 📊 **Data Analysis Projects**  
+*Python, SQL, Power BI*  
+- Analyzed business datasets using Python & SQL
+- Created dashboards in Power BI for decision-making
+
+---
+
+## 🌱 Currently Learning
+- Advanced **System Design**
+- **Microservices** with .NET & Docker
+- Cloud deployment (AWS, Azure)
+
+---
+
+## 📫 How to reach me
+- ✉️ **Email**: mahmoud827878@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/mahmoud-ali](https://www.linkedin.com/in/mahmoud-ali)
+- 🐙 **GitHub**: [github.com/MahmoudAli01155](https://github.com/MahmoudAli01155)
+
+---
+
+⭐️ *Feel free to explore my repositories and connect for collaboration!*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 👋 Hi, I'm Mahmoud Ali  
 
 🚀 **Software Engineer | Full Stack Developer | Data Analyst**  
